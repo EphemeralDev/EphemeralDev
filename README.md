@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EphemeralDev
-- 👀 I’m interested in learning the following languages: Rust, Go, Kotlin, Java, Typescript, Python, and Lua.
+- 👀 I’m interested in learning the following: Rust, Go, Kotlin, Java, Typescript, Python, and Lua.
 - 🌱 I’m currently learning: Rust
 - 📕 I've learned: Programming/Rust basics
 
