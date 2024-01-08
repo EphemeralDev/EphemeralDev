@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EphemeralDev
 - 🌱 I’m currently learning: Rust
-- 📖 I’m interested in learning: Rust, Kotlin, F#, and Go.
+- 📖 I’m interested in learning: Rust, Java/Kotlin, C#/F#, and Go.
 - 👀 I’m keeping my eye on: Nim, Carbon, V, and Zig.
 
 
